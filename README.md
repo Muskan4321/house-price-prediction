@@ -32,4 +32,4 @@ The best-performing model was selected based on these metrics.
 
 ## Deployment on Render
 The FastAPI application is deployed on **Render**, making it accessible online. You can test the API using the provided endpoint.
-
+**Deployed Link:** https://house-price-prediction-plf7.onrender.com/
